@@ -1,169 +1,166 @@
 $$$Videos_im_gleichen_Verzeichnis$$$
 $$$---Keine_GPS_Daten$$$
 $$$---Kein_Back_Button_auf_oberster_Ebene$$$
-25-01-01_19-51-28_Zawał	25-01-01_19-51-28_Zawał	Zawał	63	
 25-01-02_19-14-28_Parma Serano	25-01-02_19-14-28_Parma Serano	Parma Serano	29	
-25-01-03_22-20-47_Feuerwehr	25-01-03_22-20-47_Feuerwehr	Feuerwehr	37	
 25-01-04_20-49-07_Mirek	25-01-04_20-49-07_Mirek	Mirek	40	
-25-01-05_21-43-05_Żywica	25-01-05_21-43-05_Żywica	Żywica	23	
 25-01-05_23-42-07_Ostrogi	25-01-05_23-42-07_Ostrogi	Ostrogi	53	
-25-01-06_17-29-48_Hallux	25-01-06_17-29-48_Hallux	Hallux	18	
 25-01-06_19-48-03_Kuchnia	25-01-06_19-48-03_Kuchnia	Kuchnia	18	
-25-01-06_22-29-18_Ring	25-01-06_22-29-18_Ring	Ring	19	
 25-01-07_20-57-55_Pflege	25-01-07_20-57-55_Pflege	Pflege	37	
-25-01-08_19-40-52_Hubert Czerniak	25-01-08_19-40-52_Hubert Czerniak	Hubert Czerniak	37	
 25-01-08_22-38-45_Prąd	25-01-08_22-38-45_Prąd	Prąd	123	
-25-01-10_20-41-12_Elektrownia Wiatrowa Turbina	25-01-10_20-41-12_Elektrownia Wiatrowa Turbina	Elektrownia Wiatrowa Turbina	35	
 25-01-11_17-36-03_Porady	25-01-11_17-36-03_Porady	Porady	44	
-25-01-11_22-37-50_Tanz	25-01-11_22-37-50_Tanz	Tanz	64	
 25-01-12_21-46-07_Spain	25-01-12_21-46-07_Spain	Spain	12	
-25-01-12_23-21-48_Toksyny	25-01-12_23-21-48_Toksyny	Toksyny	196	
 25-01-14_17-35-53_Narcyz	25-01-14_17-35-53_Narcyz	Narcyz	63	
-25-01-14_20-36-18_Haare	25-01-14_20-36-18_Haare	Haare	10	
 25-01-14_21-37-46_Zdrowie	25-01-14_21-37-46_Zdrowie	Zdrowie	30	
-25-01-15_11-37-57_Mode	25-01-15_11-37-57_Mode	Mode	64	
 25-01-16_13-03-13_Song English	25-01-16_13-03-13_Song English	Song English	46	
-25-01-16_20-08-36_Leben	25-01-16_20-08-36_Leben	Leben	50	
 25-01-16_22-17-13_Odchudzac	25-01-16_22-17-13_Odchudzac	Odchudzac	58	
-25-01-17_18-45-59_Reklama Mercedes	25-01-17_18-45-59_Reklama Mercedes	Reklama Mercedes	98	
 25-01-20_13-53-25_Spadek podatek	25-01-20_13-53-25_Spadek podatek	Spadek podatek	60	
-25-01-20_18-49-22_Home	25-01-20_18-49-22_Home	Home	35	
 25-01-21_14-16-59_Myjka	25-01-21_14-16-59_Myjka	Myjka	14	
-25-01-22_11-14-33_Zawiasy Scharniere	25-01-22_11-14-33_Zawiasy Scharniere	Zawiasy Scharniere	9	
 25-01-23_18-39-33_Narożniki	25-01-23_18-39-33_Narożniki	Narożniki	57	
-25-01-24_17-53-11_WC Reperatur	25-01-24_17-53-11_WC Reperatur	WC Reperatur	70	
 25-01-24_19-55-17_Stół	25-01-24_19-55-17_Stół	Stół	13	
-25-01-25_22-29-53_Markant bol	25-01-25_22-29-53_Markant bol	Markant bol	59	
 25-01-26_19-20-39_Loty	25-01-26_19-20-39_Loty	Loty	38	
-25-01-26_22-17-32_Grob	25-01-26_22-17-32_Grob	Grob	23	
 25-01-27_13-28-11_Bau	25-01-27_13-28-11_Bau	Bau	70	
-25-01-28_11-25-21_Heizung	25-01-28_11-25-21_Heizung	Heizung	20	
 25-01-28_15-49-09_Grzybowa	25-01-28_15-49-09_Grzybowa	Grzybowa	73	
-25-01-29_20-49-12_Odcisk	25-01-29_20-49-12_Odcisk	Odcisk	71	
 25-01-31_15-11-06_Woda utleniona	25-01-31_15-11-06_Woda utleniona	Woda utleniona	80	
-25-02-07_12-18-38_Kominek	25-02-07_12-18-38_Kominek	Kominek	35	
-25-02-16_16-42-00_Zaufanie	25-02-16_16-42-00_Zaufanie	Zaufanie	21	
-25-02-20_21-39-36_Song English	25-02-20_21-39-36_Song English	Song English	60	
 25-01-01_15-22-12_Song Italy Ornella	25-01-01_15-22-12_Song Italy Ornella	Song Italy Ornella	84	
-25-01-01_19-22-20_Song Russisch	25-01-01_19-22-20_Song Russisch	Song Russisch	63	
 25-01-01_19-41-05_Moda	25-01-01_19-41-05_Moda	Moda	8	
-25-01-01_21-46-55_Prąd zero	25-01-01_21-46-55_Prąd zero	Prąd zero	119	
 25-01-01_22-02-08_Zdrowie Lekarz	25-01-01_22-02-08_Zdrowie Lekarz	Zdrowie Lekarz	63	
-25-01-01_22-52-55_Sond Spain Amaro cristo	25-01-01_22-52-55_Sond Spain Amaro cristo	Sond Spain Amaro cristo	64	
 25-01-02_22-19-09_Song Russisch	25-01-02_22-19-09_Song Russisch	Song Russisch	63	
-25-01-03_22-09-52_Leben	25-01-03_22-09-52_Leben	Leben	15	
 25-01-03_22-19-22_Kobieta mężczyzna	25-01-03_22-19-22_Kobieta mężczyzna	Kobieta mężczyzna	34	
-25-01-03_22-42-42_Anioł	25-01-03_22-42-42_Anioł	Anioł	63	
 25-01-03_22-52-36_Kobiety	25-01-03_22-52-36_Kobiety	Kobiety	99	
-25-01-04_20-41-45_Dieta	25-01-04_20-41-45_Dieta	Dieta	38	
 25-01-04_20-55-30_Ornella	25-01-04_20-55-30_Ornella	Ornella	46	
-25-01-04_21-32-45_Taniec China	25-01-04_21-32-45_Taniec China	Taniec China	64	
 25-01-05_20-57-14_1964	25-01-05_20-57-14_1964	1964	46	
-25-01-05_23-00-38_Składanie	25-01-05_23-00-38_Składanie	Składanie	65	
 25-01-05_23-30-53_Hallux	25-01-05_23-30-53_Hallux	Hallux	31	
-25-01-05_23-40-27_Witaminy	25-01-05_23-40-27_Witaminy	Witaminy	55	
 25-01-05_23-48-24_Osteopatia	25-01-05_23-48-24_Osteopatia	Osteopatia	63	
-25-01-06_16-43-40_Choroby	25-01-06_16-43-40_Choroby	Choroby	40	
 25-01-06_17-24-31_Palma	25-01-06_17-24-31_Palma	Palma	14	
-25-01-06_18-35-59_Hallux	25-01-06_18-35-59_Hallux	Hallux	26	
 25-01-06_19-19-27_Meridian	25-01-06_19-19-27_Meridian	Meridian	18	
-25-01-06_19-32-29_Song Russisch	25-01-06_19-32-29_Song Russisch	Song Russisch	60	
 25-01-06_19-51-02_Tapicerka	25-01-06_19-51-02_Tapicerka	Tapicerka	64	
-25-01-06_19-58-28_Home	25-01-06_19-58-28_Home	Home	13	
 25-01-06_20-24-09_Eiskaffee Italien	25-01-06_20-24-09_Eiskaffee Italien	Eiskaffee Italien	86	
-25-01-06_22-34-45_Piety	25-01-06_22-34-45_Piety	Piety	21	
 25-01-06_22-40-42_Ring	25-01-06_22-40-42_Ring	Ring	43	
-25-01-06_22-41-29_Gimnastik	25-01-06_22-41-29_Gimnastik	Gimnastik	27	
 25-01-07_21-10-12_Mirek	25-01-07_21-10-12_Mirek	Mirek	78	
-25-01-07_21-46-47_Składanie	25-01-07_21-46-47_Składanie	Składanie	51	
 25-01-08_19-11-07_Griechenland	25-01-08_19-11-07_Griechenland	Griechenland	47	
-25-01-08_19-58-48_SOS	25-01-08_19-58-48_SOS	SOS	42	
 25-01-08_21-16-44_Wtryski	25-01-08_21-16-44_Wtryski	Wtryski	24	
-25-01-08_22-29-22_Ślązag.pl	25-01-08_22-29-22_Ślązag.pl	Ślązag.pl	52	
 25-01-09_16-20-38_Zycie😄🥰	25-01-09_16-20-38_Zycie😄🥰	Zycie😄🥰	31	
-25-01-09_21-01-05_Barany	25-01-09_21-01-05_Barany	Barany	80	
 25-01-09_21-42-43_Song Italy	25-01-09_21-42-43_Song Italy	Song Italy	58	
-25-01-10_21-02-44_Wien	25-01-10_21-02-44_Wien	Wien	34	
 25-01-10_21-03-28_Dresden	25-01-10_21-03-28_Dresden	Dresden	19	
-25-01-10_23-14-03_Ksiądz	25-01-10_23-14-03_Ksiądz	Ksiądz	18	
 25-01-11_21-30-25_Witaminy	25-01-11_21-30-25_Witaminy	Witaminy	45	
-25-01-11_21-54-28_Dubaj Hotel	25-01-11_21-54-28_Dubaj Hotel	Dubaj Hotel	30	
 25-01-11_22-17-13_Orzechy	25-01-11_22-17-13_Orzechy	Orzechy	23	
-25-01-11_22-44-40_Tanz	25-01-11_22-44-40_Tanz	Tanz	63	
 25-01-11_23-03-28_Song englisch	25-01-11_23-03-28_Song englisch	Song englisch	146	
-25-01-12_13-14-34_Kalifornien	25-01-12_13-14-34_Kalifornien	Kalifornien	66	
 25-01-12_21-55-54_Barcelona	25-01-12_21-55-54_Barcelona	Barcelona	41	
-25-01-12_22-49-17_Leben	25-01-12_22-49-17_Leben	Leben	53	
 25-01-12_23-20-13_Kurkumina	25-01-12_23-20-13_Kurkumina	Kurkumina	31	
-25-01-13_21-19-47_Bär	25-01-13_21-19-47_Bär	Bär	12	
 25-01-13_22-15-02_Zatoki	25-01-13_22-15-02_Zatoki	Zatoki	75	
-25-01-13_22-20-45_Gardło	25-01-13_22-20-45_Gardło	Gardło	64	
 25-01-14_17-48-31_Włosy	25-01-14_17-48-31_Włosy	Włosy	27	
-25-01-14_17-52-25_Leben	25-01-14_17-52-25_Leben	Leben	75	
 25-01-14_20-08-05_Worki pod oczami	25-01-14_20-08-05_Worki pod oczami	Worki pod oczami	78	
-25-01-14_20-54-05_Song Spain	25-01-14_20-54-05_Song Spain	Song Spain	53	
 25-01-14_21-11-22_Song Englisch	25-01-14_21-11-22_Song Englisch	Song Englisch	82	
-25-01-14_21-17-41_Schrank	25-01-14_21-17-41_Schrank	Schrank	23	
 25-01-14_21-42-01_Home	25-01-14_21-42-01_Home	Home	13	
-25-01-14_21-43-22_Tanz China	25-01-14_21-43-22_Tanz China	Tanz China	47	
 25-01-15_11-21-44_Homosapien	25-01-15_11-21-44_Homosapien	Homosapien	62	
-25-01-15_15-21-45_Grzyby	25-01-15_15-21-45_Grzyby	Grzyby	90	
 25-01-15_23-18-36_Jung Kook Hate you	25-01-15_23-18-36_Jung Kook Hate you	Jung Kook Hate you	166	
-25-01-15_23-32-26_Miód	25-01-15_23-32-26_Miód	Miód	88	
 25-01-16_15-30-20_Home	25-01-16_15-30-20_Home	Home	30	
-25-01-16_17-31-18_Sichtlos	25-01-16_17-31-18_Sichtlos	Sichtlos	64	
 25-01-16_19-46-13_Mickiewicz	25-01-16_19-46-13_Mickiewicz	Mickiewicz	149	
-25-01-16_20-12-22_Pleśń	25-01-16_20-12-22_Pleśń	Pleśń	55	
 25-01-16_21-29-18_Eislaufen Rollschuhen	25-01-16_21-29-18_Eislaufen Rollschuhen	Eislaufen Rollschuhen	16	
-25-01-16_22-08-19_Tanz	25-01-16_22-08-19_Tanz	Tanz	65	
 25-01-16_22-19-22_TikTok	25-01-16_22-19-22_TikTok	TikTok	60	
-25-01-16_23-38-48_Unsichtbarer	25-01-16_23-38-48_Unsichtbarer	Unsichtbarer	65	
 25-01-17_17-52-28_Ojcostwo	25-01-17_17-52-28_Ojcostwo	Ojcostwo	81	
-25-01-18_22-27-06_Auto Garage	25-01-18_22-27-06_Auto Garage	Auto Garage	12	
 25-01-19_12-13-45_DNA moczanowa Gicht	25-01-19_12-13-45_DNA moczanowa Gicht	DNA moczanowa Gicht	50	
-25-01-19_21-44-02_Schnorowki	25-01-19_21-44-02_Schnorowki	Schnorowki	66	
 25-01-20_13-56-47_Haluxy	25-01-20_13-56-47_Haluxy	Haluxy	30	
-25-01-20_14-05-01_Sarah Brightarmann	25-01-20_14-05-01_Sarah Brightarmann	Sarah Brightarmann	70	
 25-01-20_14-16-36_Sarah Broghtman	25-01-20_14-16-36_Sarah Broghtman	Sarah Broghtman	46	
-25-01-20_19-14-08_Home	25-01-20_19-14-08_Home	Home	38	
 25-01-20_19-33-20_Home	25-01-20_19-33-20_Home	Home	49	
-25-01-20_20-45-37_Urlaub	25-01-20_20-45-37_Urlaub	Urlaub	37	
 25-01-21_20-48-55_Rodzice Dziecko	25-01-21_20-48-55_Rodzice Dziecko	Rodzice Dziecko	119	
-25-01-21_21-48-25_Scharniere Zawiasy	25-01-21_21-48-25_Scharniere Zawiasy	Scharniere Zawiasy	7	
 25-01-21_22-03-20_Eier	25-01-21_22-03-20_Eier	Eier	42	
-25-01-22_21-59-30_Küche	25-01-22_21-59-30_Küche	Küche	11	
 25-01-22_22-30-44_MacBook Ekran	25-01-22_22-30-44_MacBook Ekran	MacBook Ekran	28	
-25-01-23_11-17-23_Zatoki	25-01-23_11-17-23_Zatoki	Zatoki	46	
 25-01-23_20-18-03_Safari	25-01-23_20-18-03_Safari	Safari	103	
-25-01-24_14-13-14_Narcyz Ofiara	25-01-24_14-13-14_Narcyz Ofiara	Narcyz Ofiara	31	
 25-01-24_14-39-08_Oczy limfy	25-01-24_14-39-08_Oczy limfy	Oczy limfy	51	
-25-01-24_18-31-07_Schlitten	25-01-24_18-31-07_Schlitten	Schlitten	44	
 25-01-24_18-55-19_Ojczym	25-01-24_18-55-19_Ojczym	Ojczym	132	
-25-01-24_19-52-05_polskiszewc.robertkaron	25-01-24_19-52-05_polskiszewc.robertkaron	polskiszewc.robertkaron	64	
 25-01-24_20-53-38_Zdrowie	25-01-24_20-53-38_Zdrowie	Zdrowie	16	
-25-01-24_22-37-54_Zawór	25-01-24_22-37-54_Zawór	Zawór	111	
 25-01-24_22-49-29_Powieki	25-01-24_22-49-29_Powieki	Powieki	101	
-25-01-25_22-37-47_Matka	25-01-25_22-37-47_Matka	Matka	59	
 25-01-25_22-54-22_Zdjecia	25-01-25_22-54-22_Zdjecia	Zdjecia	42	
-25-01-26_18-58-34_Song Russisch	25-01-26_18-58-34_Song Russisch	Song Russisch	118	
 25-01-26_19-30-14_Masaze	25-01-26_19-30-14_Masaze	Masaze	37	
-25-01-26_19-33-13_Lunge	25-01-26_19-33-13_Lunge	Lunge	35	
 25-01-26_22-03-59_Meridian	25-01-26_22-03-59_Meridian	Meridian	17	
-25-01-26_22-34-42_Meridian	25-01-26_22-34-42_Meridian	Meridian	30	
 25-01-26_22-45-11_Meridian	25-01-26_22-45-11_Meridian	Meridian	18	
-25-01-27_11-57-07_Teramisu	25-01-27_11-57-07_Teramisu	Teramisu	24	
 25-01-27_15-26-33_Fenster Matt	25-01-27_15-26-33_Fenster Matt	Fenster Matt	15	
-25-01-27_21-49-54_Küche Schublade	25-01-27_21-49-54_Küche Schublade	Küche Schublade	16	
 25-01-28_11-10-23_Augen	25-01-28_11-10-23_Augen	Augen	66	
-25-01-28_12-18-04_Magnes rodzaje	25-01-28_12-18-04_Magnes rodzaje	Magnes rodzaje	55	
 25-01-28_12-45-20_Naleśniki	25-01-28_12-45-20_Naleśniki	Naleśniki	37	
-25-01-28_12-47-45_Naleśniki	25-01-28_12-47-45_Naleśniki	Naleśniki	22	
 25-01-28_18-49-03_Risotto	25-01-28_18-49-03_Risotto	Risotto	62	
-25-01-28_22-25-51_Fussball	25-01-28_22-25-51_Fussball	Fussball	30	
 25-01-29_18-47-56_MS	25-01-29_18-47-56_MS	MS	75	
-25-01-29_21-05-23_Rohren	25-01-29_21-05-23_Rohren	Rohren	20	
 25-01-29_21-37-33_Autyzm objawy	25-01-29_21-37-33_Autyzm objawy	Autyzm objawy	6	
-25-01-30_18-33-54_Komin	25-01-30_18-33-54_Komin	Komin	67	
 25-01-31_16-52-56_Golonka	25-01-31_16-52-56_Golonka	Golonka	35	
-25-01-31_19-03-12_Rauchen	25-01-31_19-03-12_Rauchen	Rauchen	48	
 25-01-31_19-12-42_Lunge	25-01-31_19-12-42_Lunge	Lunge	53	
+25-01-01_19-22-20_Song Russisch	25-01-01_19-22-20_Song Russisch	Song Russisch	63	
+25-01-01_19-51-28_Zawał	25-01-01_19-51-28_Zawał	Zawał	63	
+25-01-01_21-46-55_Prąd zero	25-01-01_21-46-55_Prąd zero	Prąd zero	119	
+25-01-01_22-52-55_Sond Spain Amaro cristo	25-01-01_22-52-55_Sond Spain Amaro cristo	Sond Spain Amaro cristo	64	
+25-01-03_22-09-52_Leben	25-01-03_22-09-52_Leben	Leben	15	
+25-01-03_22-20-47_Feuerwehr	25-01-03_22-20-47_Feuerwehr	Feuerwehr	37	
+25-01-03_22-42-42_Anioł	25-01-03_22-42-42_Anioł	Anioł	63	
+25-01-04_20-41-45_Dieta	25-01-04_20-41-45_Dieta	Dieta	38	
+25-01-04_21-32-45_Taniec China	25-01-04_21-32-45_Taniec China	Taniec China	64	
+25-01-05_21-43-05_Żywica	25-01-05_21-43-05_Żywica	Żywica	23	
+25-01-05_23-00-38_Składanie	25-01-05_23-00-38_Składanie	Składanie	65	
+25-01-05_23-40-27_Witaminy	25-01-05_23-40-27_Witaminy	Witaminy	55	
+25-01-06_16-43-40_Choroby	25-01-06_16-43-40_Choroby	Choroby	40	
+25-01-06_17-29-48_Hallux	25-01-06_17-29-48_Hallux	Hallux	18	
+25-01-06_18-35-59_Hallux	25-01-06_18-35-59_Hallux	Hallux	26	
+25-01-06_19-32-29_Song Russisch	25-01-06_19-32-29_Song Russisch	Song Russisch	60	
+25-01-06_19-58-28_Home	25-01-06_19-58-28_Home	Home	13	
+25-01-06_22-29-18_Ring	25-01-06_22-29-18_Ring	Ring	19	
+25-01-06_22-34-45_Piety	25-01-06_22-34-45_Piety	Piety	21	
+25-01-06_22-41-29_Gimnastik	25-01-06_22-41-29_Gimnastik	Gimnastik	27	
+25-01-07_21-46-47_Składanie	25-01-07_21-46-47_Składanie	Składanie	51	
+25-01-08_19-40-52_Hubert Czerniak	25-01-08_19-40-52_Hubert Czerniak	Hubert Czerniak	37	
+25-01-08_19-58-48_SOS	25-01-08_19-58-48_SOS	SOS	42	
+25-01-08_22-29-22_Ślązag.pl	25-01-08_22-29-22_Ślązag.pl	Ślązag.pl	52	
+25-01-09_21-01-05_Barany	25-01-09_21-01-05_Barany	Barany	80	
+25-01-10_20-41-12_Elektrownia Wiatrowa Turbina	25-01-10_20-41-12_Elektrownia Wiatrowa Turbina	Elektrownia Wiatrowa Turbina	35	
+25-01-10_21-02-44_Wien	25-01-10_21-02-44_Wien	Wien	34	
+25-01-10_23-14-03_Ksiądz	25-01-10_23-14-03_Ksiądz	Ksiądz	18	
+25-01-11_21-54-28_Dubaj Hotel	25-01-11_21-54-28_Dubaj Hotel	Dubaj Hotel	30	
+25-01-11_22-37-50_Tanz	25-01-11_22-37-50_Tanz	Tanz	64	
+25-01-11_22-44-40_Tanz	25-01-11_22-44-40_Tanz	Tanz	63	
+25-01-12_13-14-34_Kalifornien	25-01-12_13-14-34_Kalifornien	Kalifornien	66	
+25-01-12_22-49-17_Leben	25-01-12_22-49-17_Leben	Leben	53	
+25-01-12_23-21-48_Toksyny	25-01-12_23-21-48_Toksyny	Toksyny	196	
+25-01-13_21-19-47_Bär	25-01-13_21-19-47_Bär	Bär	12	
+25-01-13_22-20-45_Gardło	25-01-13_22-20-45_Gardło	Gardło	64	
+25-01-14_17-52-25_Leben	25-01-14_17-52-25_Leben	Leben	75	
+25-01-14_20-36-18_Haare	25-01-14_20-36-18_Haare	Haare	10	
+25-01-14_20-54-05_Song Spain	25-01-14_20-54-05_Song Spain	Song Spain	53	
+25-01-14_21-17-41_Schrank	25-01-14_21-17-41_Schrank	Schrank	23	
+25-01-14_21-43-22_Tanz China	25-01-14_21-43-22_Tanz China	Tanz China	47	
+25-01-15_11-37-57_Mode	25-01-15_11-37-57_Mode	Mode	64	
+25-01-15_15-21-45_Grzyby	25-01-15_15-21-45_Grzyby	Grzyby	90	
+25-01-15_23-32-26_Miód	25-01-15_23-32-26_Miód	Miód	88	
+25-01-16_17-31-18_Sichtlos	25-01-16_17-31-18_Sichtlos	Sichtlos	64	
+25-01-16_20-08-36_Leben	25-01-16_20-08-36_Leben	Leben	50	
+25-01-16_20-12-22_Pleśń	25-01-16_20-12-22_Pleśń	Pleśń	55	
+25-01-16_22-08-19_Tanz	25-01-16_22-08-19_Tanz	Tanz	65	
+25-01-16_23-38-48_Unsichtbarer	25-01-16_23-38-48_Unsichtbarer	Unsichtbarer	65	
+25-01-17_18-45-59_Reklama Mercedes	25-01-17_18-45-59_Reklama Mercedes	Reklama Mercedes	98	
+25-01-18_22-27-06_Auto Garage	25-01-18_22-27-06_Auto Garage	Auto Garage	12	
+25-01-19_21-44-02_Schnorowki	25-01-19_21-44-02_Schnorowki	Schnorowki	66	
+25-01-20_14-05-01_Sarah Brightarmann	25-01-20_14-05-01_Sarah Brightarmann	Sarah Brightarmann	70	
+25-01-20_18-49-22_Home	25-01-20_18-49-22_Home	Home	35	
+25-01-20_19-14-08_Home	25-01-20_19-14-08_Home	Home	38	
+25-01-20_20-45-37_Urlaub	25-01-20_20-45-37_Urlaub	Urlaub	37	
+25-01-21_21-48-25_Scharniere Zawiasy	25-01-21_21-48-25_Scharniere Zawiasy	Scharniere Zawiasy	7	
+25-01-22_11-14-33_Zawiasy Scharniere	25-01-22_11-14-33_Zawiasy Scharniere	Zawiasy Scharniere	9	
+25-01-22_21-59-30_Küche	25-01-22_21-59-30_Küche	Küche	11	
+25-01-23_11-17-23_Zatoki	25-01-23_11-17-23_Zatoki	Zatoki	46	
+25-01-24_14-13-14_Narcyz Ofiara	25-01-24_14-13-14_Narcyz Ofiara	Narcyz Ofiara	31	
+25-01-24_17-53-11_WC Reperatur	25-01-24_17-53-11_WC Reperatur	WC Reperatur	70	
+25-01-24_18-31-07_Schlitten	25-01-24_18-31-07_Schlitten	Schlitten	44	
+25-01-24_19-52-05_polskiszewc.robertkaron	25-01-24_19-52-05_polskiszewc.robertkaron	polskiszewc.robertkaron	64	
+25-01-24_22-37-54_Zawór	25-01-24_22-37-54_Zawór	Zawór	111	
+25-01-25_22-29-53_Markant bol	25-01-25_22-29-53_Markant bol	Markant bol	59	
+25-01-25_22-37-47_Matka	25-01-25_22-37-47_Matka	Matka	59	
+25-01-26_18-58-34_Song Russisch	25-01-26_18-58-34_Song Russisch	Song Russisch	118	
+25-01-26_19-33-13_Lunge	25-01-26_19-33-13_Lunge	Lunge	35	
+25-01-26_22-17-32_Grob	25-01-26_22-17-32_Grob	Grob	23	
+25-01-26_22-34-42_Meridian	25-01-26_22-34-42_Meridian	Meridian	30	
+25-01-27_11-57-07_Teramisu	25-01-27_11-57-07_Teramisu	Teramisu	24	
+25-01-27_21-49-54_Küche Schublade	25-01-27_21-49-54_Küche Schublade	Küche Schublade	16	
+25-01-28_11-25-21_Heizung	25-01-28_11-25-21_Heizung	Heizung	20	
+25-01-28_12-18-04_Magnes rodzaje	25-01-28_12-18-04_Magnes rodzaje	Magnes rodzaje	55	
+25-01-28_12-47-45_Naleśniki	25-01-28_12-47-45_Naleśniki	Naleśniki	22	
+25-01-28_22-25-51_Fussball	25-01-28_22-25-51_Fussball	Fussball	30	
+25-01-29_20-49-12_Odcisk	25-01-29_20-49-12_Odcisk	Odcisk	71	
+25-01-29_21-05-23_Rohren	25-01-29_21-05-23_Rohren	Rohren	20	
+25-01-30_18-33-54_Komin	25-01-30_18-33-54_Komin	Komin	67	
+25-01-31_19-03-12_Rauchen	25-01-31_19-03-12_Rauchen	Rauchen	48	
